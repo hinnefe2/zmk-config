@@ -1,0 +1,6 @@
+if SHIELD_CODE_TRIP_MACROPAD
+
+config ZMK_KEYBOARD_NAME
+    default "Code Trip Macro"
+
+endif

@@ -1,0 +1,9 @@
+file_format: "1"
+id: code_trip_macropad
+name: Code Trip Macropad
+type: shield
+url: https://github.com/henry.hinnefeld/zmk-config
+requires:
+  - pro_micro
+features:
+  - keys
